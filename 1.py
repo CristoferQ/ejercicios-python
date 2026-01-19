@@ -3,7 +3,7 @@
 # 📌 Descripción
 # Dado un número entero N, imprime la suma de todos los números pares desde 1 hasta N (inclusive).
 
-# 🧪 Pruebas:
+# 🧪 Pruebas
 # Entrada = 10  | Salida = 30
 # Entrada = 1   | Salida = 0
 # Entrada = 8   | Salida = 20

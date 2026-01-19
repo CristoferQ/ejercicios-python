@@ -4,7 +4,7 @@
 # Dada una cadena de texto, cuenta cuántas vocales (a, e, i, o, u) contiene.
 # No distingue entre mayúsculas y minúsculas.
 
-# 🧪 Pruebas:
+# 🧪 Pruebas
 # Entrada = Hola Mundo | Salida = 4
 # Entrada = PYTHON | Salida = 1
 # Entrada = bcdfg | Salida = 0
