@@ -1,10 +1,12 @@
 # 🟢 Ejercicio 1: Suma de pares
+
 # 📌 Descripción
 # Dado un número entero N, imprime la suma de todos los números pares desde 1 hasta N (inclusive).
-# Ejemplos
-# Entrada 10 Salida 30
-# Entrada 1 Salida 0
-# Entrada 8 Salida 20
+
+# 🧪 Pruebas:
+# Entrada = 10  | Salida = 30
+# Entrada = 1   | Salida = 0
+# Entrada = 8   | Salida = 20
 
 def sumaPares(n):
     sumaTotal = 0
