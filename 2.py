@@ -5,9 +5,9 @@
 # No distingue entre mayúsculas y minúsculas.
 
 # 🧪 Pruebas
-# Entrada = Hola Mundo | Salida = 4
-# Entrada = PYTHON | Salida = 1
-# Entrada = bcdfg | Salida = 0
+# Entrada = Hola Mundo  | Salida = 4
+# Entrada = PYTHON      | Salida = 1
+# Entrada = bcdfg       | Salida = 0
 
 def contarVocales(palabra):
     contador = 0
